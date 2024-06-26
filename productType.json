@@ -1,0 +1,38 @@
+[
+    {
+        "id":"1",
+        "short_name":"plot_map_png",
+        "prefix":"plotMap",
+        "description":"This product will return map in image/png."
+    },
+    {
+        "id":"2",
+        "short_name":"plot_timeseries_png",
+        "prefix":"plotTimeseries",
+        "description":"This product will return a image/png of a timeseries chart."
+    },
+    {
+        "id":"3",
+        "short_name":"web_map_wms",
+        "prefix":"webMapWMS",
+        "description":"This product will return plot a map in leaflet."
+    },
+    {
+        "id":"4",
+        "short_name":"web_map_wfs",
+        "prefix":"webMapWFS",
+        "description":"This product will return a text/json."
+    },
+    {
+        "id":"5",
+        "short_name":"web_timeseries_json",
+        "prefix":"webTimeseries",
+        "description":"This product will return text/json of the requested dataset."
+    },
+    {
+        "id":"6",
+        "short_name":"csv_timeseries_delimited",
+        "prefix":"webTimeseries",
+        "description":"This product will return a comma seperated csv."
+    }
+]

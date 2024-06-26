@@ -1,0 +1,20 @@
+[{
+    "ID":1,
+    "short_name": "WaveWatch3",
+    "long_name":"AUSWAVE Global Ocean Waves Forecast",
+    "type":"outlook",
+    "data_provider":"Australian Bureau of Meteorology",
+    "data_url":"http://opendap.bom.gov.au:8080/thredds/catalog/nmoc/ww3_global_fc/catalog.html",
+    "data_download_url":"http://opendap.bom.gov.au:8080/thredds/fileServer/nmoc/ww3_global_fc/ww3_YYYYMMDD_HH.R.nc",
+    "login_credentials_required": false,
+    "username":"",
+    "password":"",
+    "API_key":"",
+    "access_method":"http",
+    "access_file_name":"ww3_YYYYMMDD_HH.R.nc",
+    "access_file_type":"netCDF",
+    "ocean_portal_file_name":"ww3_YYYYMMDD_HH.R.nc",
+    "ocean_portal_file_type":"netCDF",
+    "ocean_portal_download_directory":"/home/pop/ocean_portal/datasets/model/regional/ww3forecast/forecast",
+    "download_frequency":"daily"
+}]

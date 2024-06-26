@@ -1,0 +1,26 @@
+[
+    {
+        "server_name":"ocean-thredds",
+        "url":"https://devoceanportal.spc.int/thredds"
+    },
+    {
+        "server_name":"ocean-ncwms",
+        "url":"https://devoceanportal.spc.int/ncWMS2"
+    },
+    {
+        "server_name":"ocean-cgi",
+        "url":"https://devoceanportal.spc.int/cgi-bin"
+    },
+    {
+        "server_name":"ocean-geoserver",
+        "url":"https://devoceanportal.spc.int/geoserver"
+    },
+    {
+        "server_name":"ocean-erddap",
+        "url":"https://devoceanportal.spc.int/erddap"
+    },
+    {
+        "server_name":"ocean-node",
+        "url":"https://devoceanportal.spc.int/node"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "short_name":"PAC",
+        "long_name": "Pacific Ocean",
+        "xmin":"",
+        "xmax":"",
+        "ymin":"",
+        "ymax":"",
+        "projection":"EPSG:4326"
+    },
+    {
+        "short_name":"FJI",
+        "long_name": "Fiji",
+        "xmin":"",
+        "xmax":"",
+        "ymin":"",
+        "ymax":"",
+        "projection":"EPSG:4326"
+    }
+]

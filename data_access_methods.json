@@ -1,0 +1,14 @@
+[
+{
+    "id":1,
+    "access_method":"http"
+},
+{
+    "id":2,
+    "access_method":"corpernicus-marine-client"
+},
+{
+    "id":3,
+    "access_method":"nasa"
+}
+]
